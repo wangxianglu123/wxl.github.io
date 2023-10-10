@@ -1,11 +1,12 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'Learnability and Algorithm for Continual Learning'
+date: 2023-10-10
+permalink: /posts/2023/10/blog-post-1/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Continual Learning
+  - Class Incremental Learning
+  - Within-task Prediction (WP)
+  - Out-of-distribution(OOD) Detection
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+首先
